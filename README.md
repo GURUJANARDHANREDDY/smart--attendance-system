@@ -57,9 +57,5 @@ This will match detected faces against the stored dataset and mark attendance.
 - Run the script as administrator.
 - Verify correct directory paths.
 
-## Author
-Janardhan Reddy
 
-## License
-This project is licensed under the MIT License.
 
